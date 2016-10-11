@@ -1,5 +1,12 @@
 # Tracks
 
+##Screenshot
+
+<img src="https://github.com/FabioSchiavo/Tracks/blob/master/Screenshot_2014-12-25-10-41-39.png" width="30%">
+<img src="https://github.com/FabioSchiavo/Tracks/blob/master/Screenshot_2014-12-25-10-41-47.png" width="30%">
+
+##API Key
+
 In AndroidManifest.xml remembers to insert your Google Maps API key.
 
 ```xml
@@ -27,3 +34,6 @@ It's necessary to add the Requesting Permissions at Run Time.
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
+
+##UML
+<img src="https://github.com/FabioSchiavo/Tracks/blob/master/UML.PNG">
